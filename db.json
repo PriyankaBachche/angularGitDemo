@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "Name": "Priyanka Bachche",
+      "Address": "lim",
+      "country": "India",
+      "state": "Kerala",
+      "city": "bnbj",
+      "pincode": "hbhjhn",
+      "phone": {
+        "phoneno": "9860106266",
+        "countrycode": ""
+      },
+      "email": "test@gmail.com",
+      "password": "Pass@123",
+      "confirmpassword": "Pass@123",
+      "id": 1
+    },
+    {
+      "Name": "Priyanka Bachche",
+      "Address": "lim",
+      "country": "India",
+      "state": "Gujrat",
+      "city": "bnbj",
+      "pincode": "hbhjhn",
+      "phone": {
+        "phoneno": "9860402665",
+        "countrycode": ""
+      },
+      "email": "test@gmail.com",
+      "password": "Pass@123",
+      "confirmpassword": "Pass@123",
+      "id": 2
+    },
+    {
+      "Name": "Avadhut Bachche",
+      "Address": "ap sawarde",
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "kolhapur",
+      "pincode": "416213",
+      "phone": {
+        "phoneno": "9860406226",
+        "countrycode": ""
+      },
+      "email": "test123@gmail.com",
+      "password": "Pass@123",
+      "confirmpassword": "Pass@123",
+      "id": 3
+    },
+    {
+      "Name": "riya",
+      "Address": "sangli",
+      "country": "Australia",
+      "state": "Queensland",
+      "city": "sydney",
+      "pincode": "526585",
+      "phone": {
+        "phoneno": "7852452655",
+        "countrycode": ""
+      },
+      "email": "pri@gmail.com",
+      "password": "Pass@123",
+      "confirmpassword": "Pass@123",
+      "id": 4
+    },
+    {
+      "Name": "Shaurya",
+      "Address": "dewale",
+      "country": "China",
+      "state": "Jiangsu",
+      "city": "huwan",
+      "pincode": "526585",
+      "phone": {
+        "phoneno": "8995265655",
+        "countrycode": ""
+      },
+      "email": "user@gmail.com",
+      "password": "Pass@123",
+      "confirmpassword": "Pass@123",
+      "id": 5
+    },
+    {
+      "Name": "trishan",
+      "Address": "kolhapur",
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "kolhapur",
+      "pincode": "416213",
+      "phone": {
+        "phoneno": "8525256556",
+        "countrycode": ""
+      },
+      "email": "user1@yahoo.in",
+      "password": "Pass@123",
+      "confirmpassword": "Pass@123",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "username": "priyanka",
+      "email": "test@gmail.com",
+      "mobileNo": "8989898989",
+      "gender": "male",
+      "id": 1
+    },
+    {
+      "username": "padmaja",
+      "email": "rest@gmail.com",
+      "mobileNo": "9686569656",
+      "gender": "female",
+      "id": 2
+    },
+    {
+      "username": "ishwari",
+      "email": "isha@gmail.com",
+      "mobileNo": "9898989898",
+      "gender": "female",
+      "id": 3
+    },
+    {
+      "username": "test@gmail.com",
+      "email": "jobsarathee@gmail.com",
+      "mobileNo": "08208466824",
+      "gender": "male",
+      "id": 4
+    }
+  ]
+}
